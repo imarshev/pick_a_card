@@ -1,3 +1,5 @@
+#encoding UTF-8
+
 values = [2..10,'J', 'Q', 'K', 'A']
 suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades']
 
